@@ -58,7 +58,7 @@ In a large, complex community like NYU, it's vital to reach out to others, parti
 There will be three components that will count towards your grade. The deadlines can be found in [course schedule](./schedule).
 
 - Assignments (60%): There will be four individual assignments, each counting equally towards the final grade.
-- In-class Exam (28%): There will be one in-class midterm. 
+- In-class Midterm (28%): There will be one in-class midterm. 
 - In-class Quiz (12%): There will be two in-class quizzes, each 15 minutes, counting equally towards the grades. 
 
 Absence: If you have to miss the exam or quiz for valid reasons (i.e., religious observance, documented illness, family emergency, and others), please reach out to the instructor as soon as possible, it’ll be handled on a case-by-case basis.
@@ -73,6 +73,9 @@ There will be a total of 4 programming assignments.
 - Assignment 2: Transformer from scratch
 - Assignment 3: Prompting LLMs
 - Assignment 4: Fine-tuning LLMs 
+
+### In-class Midterm
+The exam will cover all course materials up to the midterm. We will provide sample exams prior to exam to help your preparation. 
 
 ### In-Class Quiz
 There will be two in-class quizzes. Each quiz will happen during the first 15 minutes of the class. The quiz will consist of a few questions: True/False, multiple choice and short answer questions that evaluate the concepts covered during the lecture in the weeks preceding the quiz. At least one week prior to the first quiz, the course staff will post some sample quiz questions to help your preparation. 

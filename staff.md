@@ -4,11 +4,7 @@ title: Staff
 description: A listing of all the course staff members.
 ---
 
-# Staff
-
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
-
-## Instructors
+## Instructor
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
@@ -24,3 +20,6 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+
+### Please use Discord for most inquiries. If you need to send a private message, please email to sp26-cs2590-staff@googlegroups.com, which will be read by course instructor and teaching assistants. 
